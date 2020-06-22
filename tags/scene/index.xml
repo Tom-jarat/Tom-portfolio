@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on TOM JARAT</title>
+    <link>https://tom-jarat.github.io/Tom-portfolio/tags/scene/</link>
+    <description>Recent content in scene on TOM JARAT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://tom-jarat.github.io/Tom-portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Bank marketing</title>
+      <link>https://tom-jarat.github.io/Tom-portfolio/post/project-1/</link>
+      <pubDate>Sat, 20 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://tom-jarat.github.io/Tom-portfolio/post/project-1/</guid>
+      <description>Overview The project aims to identify the level of risk and potential customer of banking product which are default rate, housing loan, term deposit, and personal loan. The input of the project is a bank marketing data set from https://www.kaggle.com/janiobachmann/bank-marketing-dataset. The data is used to identify the potential customer to subscribe to a term deposit in a marketing campaign. the data set consists of 17 features and 11162 rows including a target variable.</description>
+    </item>
+    
+  </channel>
+</rss>

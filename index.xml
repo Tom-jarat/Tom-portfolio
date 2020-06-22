@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on TOM JARAT</title>
+    <link>https://tom-jarat.github.io/Tom-portfolio/</link>
+    <description>Recent content in Data Science Portfolio on TOM JARAT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://tom-jarat.github.io/Tom-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Bank marketing</title>
+      <link>https://tom-jarat.github.io/Tom-portfolio/post/project-1/</link>
+      <pubDate>Sat, 20 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://tom-jarat.github.io/Tom-portfolio/post/project-1/</guid>
+      <description>Overview The project aims to identify the level of risk and potential customer of banking product which are default rate, housing loan, term deposit, and personal loan. The input of the project is a bank marketing data set from https://www.kaggle.com/janiobachmann/bank-marketing-dataset. The data is used to identify the potential customer to subscribe to a term deposit in a marketing campaign. the data set consists of 17 features and 11162 rows including a target variable.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Regression and classification with housing data</title>
+      <link>https://tom-jarat.github.io/Tom-portfolio/post/project-3/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://tom-jarat.github.io/Tom-portfolio/post/project-3/</guid>
+      <description>objective -Estimate the sale price of properties based on their &amp;ldquo;fixed&amp;rdquo; characteristics, such as neighborhood, lot size, number of stories, etc. -Estimate the value of possible changes and renovations to properties from the variation in sale price not explained by the fixed characteristics. Your goal is to estimate the potential return on investment (and how much you should be willing to pay contractors) when making specific improvements to properties. -Determine the features in the housing data that best predict &amp;ldquo;abnormal&amp;rdquo; sales (forclosures, etc.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Web Scraping Job Postings and Salary Analysis</title>
+      <link>https://tom-jarat.github.io/Tom-portfolio/post/project-4/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://tom-jarat.github.io/Tom-portfolio/post/project-4/</guid>
+      <description>#Business Case Overview You&amp;rsquo;re working as a data scientist for a contracting firm that&amp;rsquo;s rapidly expanding. Now that they have their most valuable employee (you!), they need to leverage data to win more contracts. Your firm offers technology and scientific solutions and wants to be competitive in the hiring market. Your principal has two main objectives:
+Determine the industry factors that are most important in predicting the salary amounts for these data.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Civic data analyses</title>
+      <link>https://tom-jarat.github.io/Tom-portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://tom-jarat.github.io/Tom-portfolio/post/project-2/</guid>
+      <description>Your hometown mayor just created a new data analysis team to give policy advice, and the administration recruited you via LinkedIn to join it. Unfortunately, due to budget constraints, for now the &amp;ldquo;team&amp;rdquo; is just you&amp;hellip;
+The mayor wants to start a new initiative to move the needle on one of two separate issues: high school education outcomes, or drug abuse in the community.
+Also unfortunately, that is the entirety of what you&amp;rsquo;ve been told.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tom-jarat.github.io/Tom-portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tom-jarat.github.io/Tom-portfolio/contact/</guid>
+      <description>   Platform URL     LinkedIn: https://www.linkedin.com/in/tom-jarat/   Email: tom-jarat@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
