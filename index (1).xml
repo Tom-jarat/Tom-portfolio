@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on TOM JARAT</title>
-    <link>https://tom-jarat.github.io/Tom-portfolio/post/</link>
-    <description>Recent content in Projects on TOM JARAT</description>
+    <title>Data Science Portfolio on TOM JARAT</title>
+    <link>https://tom-jarat.github.io/Tom-portfolio/</link>
+    <description>Recent content in Data Science Portfolio on TOM JARAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://tom-jarat.github.io/Tom-portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tom-jarat.github.io/Tom-portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,6 +37,15 @@
       <guid>https://tom-jarat.github.io/Tom-portfolio/post/project-4/</guid>
       <description>#Business Case Overview You&amp;rsquo;re working as a data scientist for a contracting firm that&amp;rsquo;s rapidly expanding. Now that they have their most valuable employee (you!), they need to leverage data to win more contracts. Your firm offers technology and scientific solutions and wants to be competitive in the hiring market. Your principal has two main objectives:
 Determine the industry factors that are most important in predicting the salary amounts for these data.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tom-jarat.github.io/Tom-portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tom-jarat.github.io/Tom-portfolio/contact/</guid>
+      <description>   Platform URL     LinkedIn: https://www.linkedin.com/in/tom-jarat/   Email: tom.jarat158@gmail.com    </description>
     </item>
     
   </channel>
