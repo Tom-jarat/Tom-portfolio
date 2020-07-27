@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on TOM JARAT</title>
-    <link>https://tom-jarat.github.io/Tom-portfolio/about/</link>
-    <description>Recent content in About on TOM JARAT</description>
+    <title>Data Science Portfolio on TOM JARAT</title>
+    <link>https://tom-jarat.github.io/Tom-portfolio/</link>
+    <description>Recent content in Data Science Portfolio on TOM JARAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jun 2020 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://tom-jarat.github.io/Tom-portfolio/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tom-jarat.github.io/Tom-portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bank marketing</title>
+      <link>https://tom-jarat.github.io/Tom-portfolio/post/project-1/</link>
+      <pubDate>Sat, 20 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://tom-jarat.github.io/Tom-portfolio/post/project-1/</guid>
+      <description>•	Created a predictive model to identify the potential customer of Banking products including term deposits, housing loans, and personal loans.
+•	Predicted the risk of default of individual from general characteristic.
+•	Oversampled the unbalanced data to reduce error of prediction
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Regression and classification with housing data</title>
+      <link>https://tom-jarat.github.io/Tom-portfolio/post/project-3/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://tom-jarat.github.io/Tom-portfolio/post/project-3/</guid>
+      <description>•Estimate the sale price of properties based on their &amp;ldquo;fixed&amp;rdquo; characteristics, such as neighborhood, lot size, number of stories, etc.
+•Estimate the value of possible changes and renovations to properties from the variation in sale price not explained by the fixed characteristics. Your goal is to estimate the potential return on investment (and how much you should be willing to pay contractors) when making specific improvements to properties.
+•Determine the features in the housing data that best predict &amp;ldquo;abnormal&amp;rdquo; sales (forclosures, etc.</description>
+    </item>
+    
+    <item>
+      <title>Web Scraping Job Postings and Salary Analysis</title>
+      <link>https://tom-jarat.github.io/Tom-portfolio/post/project-4/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://tom-jarat.github.io/Tom-portfolio/post/project-4/</guid>
+      <description>•	Retreived data from seek.com by using Beautiful Soup.
+•	Determine the industry factors that are most important in predicting the salary amounts for these data.
+•	Determine the factors that distinguish job categories and titles from each other. For example, can required skills accurately predict job title?
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tom-jarat.github.io/Tom-portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tom-jarat.github.io/Tom-portfolio/contact/</guid>
+      <description>   Platform URL     LinkedIn: https://www.linkedin.com/in/tom-jarat/   Email: tom.jarat158@gmail.com    </description>
+    </item>
     
   </channel>
 </rss>
